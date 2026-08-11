@@ -1299,7 +1299,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            301 hours played
+                            302 hours played
                         </div>
                     </section>
                 </div>
@@ -1403,7 +1403,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1420,7 +1420,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 31 achievements unlocked
+                                            4 / 31 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAABQYHBAID/8QALhAAAgECBQIEBAcAAAAAAAAAAQIDBBEABRIhMQYTIkFRYQcUcaEjMkJDgZHw/8QAFwEBAAMAAAAAAAAAAAAAAAAABAMFBv/EACkRAAECBAQFBQEAAAAAAAAAAAEDEQACBAUSITHwE0FxkaEUIlFhgeH/2gAMAwEAAhEDEQA/AB3T+Xisdi+kKqlyW4AH+++Nk/R1HX1sE+Whaeqifwj9MzA8egP2PHPPj0xAuYVBSlr4yEVu6sT6gVI3BAw9UOaRUlTLEk0NABGzpOUu+sHgDfYm4A8xc+mL27+oWqCEnaViCPJbnts4z1mRS4GKYZl33vtCvm/R/ZLzxlAPE8yFgQpF/IbrcjjChoeN6tNJH4bXQD3B2/rFNrM/rczlrflYpknm0rKjxAxmxGgXN7Xte+2A3WeWaYkrII+0HI122Ktb68bNuPTDEKxZJaWSpI9zMz/vnT56logr7XImk6Q0zgH8HqVMrSKYqhqZmsRa5Xa4FuCPbDj1NQtX5jTClr+3VsrVUpkOnU4Ok6QBceG/h87eROJP0dnRps8kikY6SbgE++LDDPTVschZIZ1kCxqj6TwtlAvt/NxgFbKvTNU00uKUZYRr9n+NrDbXVJlTgrzCUnNzp0gW/wA/Q1NLT5PX1UEdQqzHvgRszA/uRHcWF+NQO3GOOrZoJooIYJhpCkCIbL+UEWPoTce2/rjD1BmtJkkRaURQzRuxVFI1MCLbkfU+eJanUVS0sk1NKTGz6tEqhhfBrauahfjVCeEjv1O8oTejMU8KU+J+fKP/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Cartomancy</div>
+                                                <div class="unlocked">11 Aug 2026</div>
+                                            </div>
+                                            <div class="description">Discover every Tarot card</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1434,18 +1444,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEA//EACsQAAIBAwMCBQMFAAAAAAAAAAECAwQFEQASIQZBEyIxUXEHFGEVMoGRof/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBgEE/8QAKBEAAQIFAgQHAAAAAAAAAAAAAQIDAAQREjEFEyFBYfAiMlFxscHx/9oADAMBAAIRAxEAPwCbpKSSqkCIuSf81nrbTZLbcoKkSFqyJw7LCPJn1/v40/Qw0rUlGVqDI1TUrARTOpO0/uIJ8ufnj10rL0P0+aOrkF6C1Uf3CqqzpKjMsgSM7sA4yTkY/I9ObaadbdVavyg8KZr9RJ6ZJ0RunJ5d5gJmsd3k20ryUdRISWSXBQntg9s6M+3mpGqYXBJ8M8DnPocjVPeeirTSpVSW+4tUiOppUVRMm5InJEpb3K4BBHpnnOufUNEsX6hTxOXa31LQwzFgzPBk+G2V4OR7aJt8XC01B9e+sZPaelDZUgUpA/Q0aWu02i6ywNUyW2sFTNToeTFt8wAPBx5T/B0rF1lahdLFXGhq0a21U07JGI8TI5zjPb09ORydRvSN4amvc0TuSjZ8pPGO/Gqq42Oz17q9HM1umd9m0ANCT7gdsj2OM6U0y3bUDhj25H5g2dR2ztvGhzCFj+oNJQOEqrYaqKMQiKQqgmGybxHBPcN7dj+NHxrFLTV1bHB9slzk3wxEhdyKDgkDgb2JPHHOou8VVBY6t4qgvWzIThCuyM/IySfjOsUPUdXMRPDIfDBwInUMq47Y0hMywHylAPX8jpnr1y/gI4x//9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Ante Up!</div>
-                                                <div class="unlocked">10 Aug 2026</div>
-                                            </div>
-                                            <div class="description">Reach Ante 4</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1456,7 +1456,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2026, 16:07:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2026, 17:53:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
